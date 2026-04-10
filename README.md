@@ -1,4 +1,4 @@
-# Power Failure Predictive Models
+# Power Metering Failure Predictive Models
 
 Provide predictive machine learning solutions for power company to identify potential electric metering failures based on data science.
 
